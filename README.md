@@ -1,5 +1,6 @@
 # Arduino-ST7789-Temperature
 
+
 This is a simple Thermometer using the DS18B20 temperature sensor and an ST7789 display on Arduino.
 
 <p align="center">
